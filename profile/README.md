@@ -8,10 +8,10 @@ Proyectos universitarios de **Ciencia de la Computación** en la [Universidad de
 
 | Repositorio | Descripción | Stack |
 |---|---|---|
-| [cs2032-wheels-hub](https://github.com/maykol-morales/cs2032-wheels-hub) | Frontend multi-tenant para concesionarios (Honda, Ford, Nissan) | Gatsby · React · Tailwind |
-| [cs2032-user-service](https://github.com/maykol-morales/cs2032-user-service) | Microservicio de usuarios, registro y login | FastAPI · MongoDB · Docker |
-| [cs2032-car-service](https://github.com/maykol-morales/cs2032-car-service) | Microservicio de catálogo de autos | FastAPI · MongoDB · Docker |
-| [cs2032-purchase-service](https://github.com/maykol-morales/cs2032-purchase-service) | Microservicio de compras | FastAPI · MongoDB · Docker |
+| [cs2032-wheels-hub](https://github.com/Maykol-Morales/cs2032-wheels-hub) | Frontend multi-tenant para concesionarios (Honda, Ford, Nissan) | Gatsby · React · Tailwind |
+| [cs2032-user-service](https://github.com/Maykol-Morales/cs2032-user-service) | Microservicio de usuarios, registro y login | FastAPI · MongoDB · Docker |
+| [cs2032-car-service](https://github.com/Maykol-Morales/cs2032-car-service) | Microservicio de catálogo de autos | FastAPI · MongoDB · Docker |
+| [cs2032-purchase-service](https://github.com/Maykol-Morales/cs2032-purchase-service) | Microservicio de compras | FastAPI · MongoDB · Docker |
 
 ---
 

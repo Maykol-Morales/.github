@@ -8,6 +8,9 @@ Proyectos universitarios de **Ciencia de la Computación** en la [Universidad de
 
 | Repositorio | Descripción | Stack |
 |---|---|---|
+| [cs2032-web-attendance](https://github.com/Maykol-Morales/cs2032-web-attendance) | Registro de asistencia con Google OAuth y geolocalización · [attendance.cs2032.com](https://attendance.cs2032.com) | Astro · React · Tailwind |
+| [cs2032-web-admin](https://github.com/Maykol-Morales/cs2032-web-admin) | Panel de instructores: sesiones y QR de asistencia · [admin.cs2032.com](https://admin.cs2032.com) | Astro · React · Tailwind |
+| [cs2032-web-hackathon](https://github.com/Maykol-Morales/cs2032-web-hackathon) | Web del hackathon HACK//UTEC · [hackathon.cs2032.com](https://hackathon.cs2032.com) | Astro · Tailwind |
 | [cs2032-wheels-hub](https://github.com/Maykol-Morales/cs2032-wheels-hub) | Frontend multi-tenant para concesionarios (Honda, Ford, Nissan) | Gatsby · React · Tailwind |
 | [cs2032-user-service](https://github.com/Maykol-Morales/cs2032-user-service) | Microservicio de usuarios, registro y login | FastAPI · MongoDB · Docker |
 | [cs2032-car-service](https://github.com/Maykol-Morales/cs2032-car-service) | Microservicio de catálogo de autos | FastAPI · MongoDB · Docker |

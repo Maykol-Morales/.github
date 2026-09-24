@@ -2,8 +2,6 @@
 
 Proyectos universitarios de **Ciencia de la Computación** en la [Universidad de Ingeniería y Tecnología (UTEC)](https://utec.edu.pe).
 
-Los repositorios siguen el formato `codigocurso-nombre-proyecto`.
-
 ## Cursos
 
 ### CS2032 · Cloud Computing

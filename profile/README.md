@@ -19,6 +19,12 @@ Proyectos universitarios de **Ciencia de la Computación** en la [Universidad de
 | [cs2032-car-service](https://github.com/Maykol-Morales/cs2032-car-service) | Microservicio de catálogo de autos | FastAPI · MongoDB · Docker |
 | [cs2032-purchase-service](https://github.com/Maykol-Morales/cs2032-purchase-service) | Microservicio de compras | FastAPI · MongoDB · Docker |
 
+### CS5383 · Verificación y Pruebas de Software
+
+| Repositorio | Descripción | Stack |
+|---|---|---|
+| [cs5383-project](https://github.com/Maykol-Morales/cs5383-project) | Planificación, análisis y diseño de pruebas ISTQB sobre Advantage Online Shopping | ISTQB · Pruebas manuales |
+
 ---
 
 Perfil personal: [@JustMaykol](https://github.com/JustMaykol)

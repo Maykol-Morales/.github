@@ -24,7 +24,7 @@ Proyectos universitarios de **Ciencia de la Computación** en la [Universidad de
 | Repositorio | Descripción | Stack |
 |---|---|---|
 | [cs5383-project](https://github.com/Maykol-Morales/cs5383-project) | Planificación, análisis y diseño de pruebas ISTQB sobre Advantage Online Shopping | ISTQB · Pruebas manuales |
-| [codigo-mock](https://github.com/Maykol-Morales/codigo-mock) | Test Double Mock: teoría, ejemplos, demo ejecutable y slides | Python · unittest.mock |
+| [cs5383-mock](https://github.com/Maykol-Morales/cs5383-mock) | Test Double Mock: teoría, ejemplos, demo ejecutable y slides | Python · unittest.mock |
 
 ---
 
